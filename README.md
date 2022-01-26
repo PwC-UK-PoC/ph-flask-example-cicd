@@ -1,6 +1,6 @@
 # flask-example-cicd
 
-This is a simple python flask application to host a simple web app. 
+This is a simple python flask application to host a simple web app.
 
 After starting the flask application you can access following URL's on the server:
 
